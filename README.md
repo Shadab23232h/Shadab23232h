@@ -2,8 +2,8 @@
 ### 📱 Android Developer | ☕ Java & 🔷 Kotlin Expert | ⚙️ Automation Specialist
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadab23232h&show_icons=true&theme=tokyonight&count_private=true" alt="Shadab's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadab23232h&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadab23232h&show_icons=true&theme=radical&count_private=true" alt="Shadab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadab23232h&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/shadab-khan-developer/)
-- 📧 [Email](mailto:shadab.developer@example.com) <!-- Replace with actual email -->
-- 🌐 [Portfolio](https://shadab.dev) <!-- Replace with actual link -->
+- 📧 [Email](mailto:shadab.developer@example.com)
+- 🌐 [Portfolio](https://shadab.dev)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
